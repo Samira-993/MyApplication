@@ -93,7 +93,7 @@ public class QuestionRepository {
                     add("Google");
                     add("Samsung");
                 }},
-                1
+                2
         ));
 
         questions.add(new Question(
